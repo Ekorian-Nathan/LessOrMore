@@ -1,5 +1,5 @@
 # LessOrMore
-A little game developped in python in 1 week while my stage for fune when I had nothing to do
+A little game developped in python in 1 week while my stage for fun when I had nothing to do
 
 Started with a game with only difficulty options and was used in the terminal
 
